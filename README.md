@@ -37,5 +37,5 @@ follow the following steps to run the project.
 
 ## ScreenShots From the project:
 
-![img](/src/assets/1.jpeg)
-![img](/src/assets/2.jpeg)
+![img](/src/Assets/1.png)
+![img](/src/Assets/2.png)
