@@ -33,3 +33,9 @@ follow the following steps to run the project.
   - npm install
   - npm run json-server
   - npm start
+
+
+## ScreenShots From the project:
+
+![img](/src/assets/ProjectScreenshots/1.jpeg)
+![img](/src/assets/ProjectScreenshots/2.jpeg)
